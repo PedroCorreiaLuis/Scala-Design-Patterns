@@ -8,7 +8,7 @@ package Builder
 
   }
 
-  def addDought( dought: String): PizzaBuilder = {
+  def addDought(dought: String): PizzaBuilder = {
     new PizzaBuilder(Some(dought), sauce, topping)
   }
 
@@ -17,7 +17,7 @@ package Builder
   }
 
   def addTopping(topping:String):PizzaBuilder = {
-      new PizzaBuilder(dought, sauce, Some(topping))
+    new PizzaBuilder(dought, sauce, Some(topping))
   }
 
 }

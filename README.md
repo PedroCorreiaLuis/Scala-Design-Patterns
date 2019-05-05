@@ -8,7 +8,7 @@ The goal of this project is to build common design patterns and build them using
 ### Creational design patterns
 
 * Abstract Factory :ballot_box_with_check:
-* Builder
+* Builder :ballot_box_with_check:
 * Factory Method
 * Object Pool
 * Prototype

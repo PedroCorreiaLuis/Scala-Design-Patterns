@@ -8,7 +8,7 @@ abstract class AbstractFactory {
 
 }
 
-object AbstractFactory{
+object AbstractFactory {
 
   val enginolaFactory = new EnginolaToolkit
   val emberFactory = new EmberToolkit

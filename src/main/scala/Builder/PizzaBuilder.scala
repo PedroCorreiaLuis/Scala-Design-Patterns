@@ -1,6 +1,6 @@
 package Builder
 
-  class PizzaBuilder(dought: Option[String] = None, sauce: Option[String] = None, topping: Option[String] = None) {
+class PizzaBuilder(dought: Option[String] = None, sauce: Option[String] = None, topping: Option[String] = None) {
 
   def createPizza: Pizza = {
 
@@ -16,7 +16,7 @@ package Builder
     new PizzaBuilder(dought, Some(sauce), topping)
   }
 
-  def addTopping(topping:String):PizzaBuilder = {
+  def addTopping(topping: String): PizzaBuilder = {
     new PizzaBuilder(dought, sauce, Some(topping))
   }
 

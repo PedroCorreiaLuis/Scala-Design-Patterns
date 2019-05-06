@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpatterns.iml" filepath="$PROJECT_DIR$/.idea/modules/designpatterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designpatterns-build.iml" filepath="$PROJECT_DIR$/.idea/modules/designpatterns-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatterns-build.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatterns-build.iml" />
     </modules>
   </component>
 </project>

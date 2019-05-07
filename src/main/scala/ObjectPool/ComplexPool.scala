@@ -5,7 +5,6 @@ import java.util.concurrent.{ BlockingQueue, LinkedBlockingDeque }
 
 class ComplexPool extends ObjectPool[Complex] {
 
-
   override def createObject(): Unit = {
     queue.put(new Complex, expireDate)
   }

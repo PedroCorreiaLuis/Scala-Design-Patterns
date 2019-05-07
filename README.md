@@ -12,7 +12,7 @@ The goal of this project is to build common design patterns and build them using
 * Factory Method :ballot_box_with_check:
 * Object Pool :ballot_box_with_check:
 * Prototype :ballot_box_with_check:
-* Singleton
+* Singleton :ballot_box_with_check:
 
 ### Structural design patterns
  

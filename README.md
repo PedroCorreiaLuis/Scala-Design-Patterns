@@ -42,7 +42,7 @@ The goal of this project is to build common design patterns and build them using
 
 The examples are based on the ebook Dive Into Design Patterns, https://sourcemaking.com/design_patterns.
 
-I Still have to study and learn all those design patters (this might take a while) so all the help is appreciated, if you want to contribute just do a pull request.
+I Still have to study and learn all those design patterns (this might take a while) so all the help is appreciated, if you want to contribute just do a pull request.
 
 If you have more questions or suggestions I am always available **pedrocorreialuis@hotmail.com**
 

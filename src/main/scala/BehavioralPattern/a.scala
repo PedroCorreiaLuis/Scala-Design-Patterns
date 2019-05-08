@@ -1,0 +1,5 @@
+package BehavioralPattern
+
+class a {
+
+}

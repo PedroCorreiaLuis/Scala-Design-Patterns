@@ -1,3 +1,5 @@
-import Singleton.Singleton
+import Singleton.{NamelessSingleton, SingletonWithName}
 
-Singleton.itsASingleton()
+SingletonWithName.itsASingleton()
+
+NamelessSingleton.itsASingleton()

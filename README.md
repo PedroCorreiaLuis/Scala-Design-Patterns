@@ -16,7 +16,7 @@ The goal of this project is to build common design patterns and build them using
 
 ### Structural design patterns
  
-* Adapter
+* Adapter :ballot_box_with_check:
 * Bridge
 * Composite
 * Decorator

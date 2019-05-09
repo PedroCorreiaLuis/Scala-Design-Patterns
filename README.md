@@ -18,7 +18,7 @@ The goal of this project is to build common design patterns and build them using
  
 * Adapter :ballot_box_with_check:
 * Bridge :ballot_box_with_check:
-* Composite
+* Composite :ballot_box_with_check:
 * Decorator
 * Facade
 * Flyweight

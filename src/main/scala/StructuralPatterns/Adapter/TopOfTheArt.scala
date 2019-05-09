@@ -1,6 +1,6 @@
 package StructuralPatterns.Adapter
 
-case class TopOfTheArt(id: Int, codes: String, priority: Int){
+case class TopOfTheArt(id: Int, codes: String, priority: Int) {
 
   def calculateNextCode(id: Int, codes: String, priority: Int): Char = {
     codes match {

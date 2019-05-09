@@ -1,9 +1,9 @@
 import CreationalPatterns.Builder.{PizzaBuilder, Waiter}
 
-val builder = new PizzaBuilder()
+//val builder = new PizzaBuilder()
 
 val waiter = new Waiter
 
-val pizza = waiter.constructPizza("cross", "tomato sause", "lots of cheese")
+val pizza = waiter.constructPizza(Some("dought"), Some("tomato sause"), Some("lots of cheese"))
 
 println(pizza)

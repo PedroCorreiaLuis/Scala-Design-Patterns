@@ -8,16 +8,16 @@ class PizzaBuilder(dought: Option[String] = None, sauce: Option[String] = None, 
 
   }
 
-  def addDought(dought: String): PizzaBuilder = {
-    new PizzaBuilder(Some(dought), sauce, topping)
+  def addDought(dought: Option[String]): PizzaBuilder = {
+    new PizzaBuilder(dought, sauce, topping)
   }
 
-  def addSauce(sauce: String): PizzaBuilder = {
-    new PizzaBuilder(dought, Some(sauce), topping)
+  def addSauce(sauce: Option[String]): PizzaBuilder = {
+    new PizzaBuilder(dought, sauce, topping)
   }
 
-  def addTopping(topping: String): PizzaBuilder = {
-    new PizzaBuilder(dought, sauce, Some(topping))
+  def addTopping(topping: Option[String]): PizzaBuilder = {
+    new PizzaBuilder(dought, sauce, topping)
   }
 
 }

@@ -1,7 +1,7 @@
 # Scala-Design-Patterns
 ### My vision of common design patterns in Scala
 
-The goal of this project is to build common design patterns and build them using Scala functional programming.
+The goal of this project is to build common design patterns and build them using Scala.
 
  Here is a list of those patterns:
  

@@ -20,7 +20,7 @@ The goal of this project is to build common design patterns and build them using
 * Bridge :ballot_box_with_check:
 * Composite :ballot_box_with_check:
 * Decorator :ballot_box_with_check:
-* Facade
+* Facade :ballot_box_with_check:
 * Flyweight
 * Private Class Data
 * Proxy

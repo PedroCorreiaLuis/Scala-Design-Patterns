@@ -21,7 +21,7 @@ The goal of this project is to build common design patterns and build them using
 * Composite :ballot_box_with_check:
 * Decorator :ballot_box_with_check:
 * Facade :ballot_box_with_check:
-* Flyweight
+* Flyweight :ballot_box_with_check:
 * Private Class Data
 * Proxy
 
